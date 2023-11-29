@@ -43,7 +43,8 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-
+## output:
+![Screenshot 2023-11-29 161651](https://github.com/mounika2005/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145633112/dd31247e-f954-4fd4-a751-8204e3edae3e)
 
 
 ### Name: lakshmi mounika
